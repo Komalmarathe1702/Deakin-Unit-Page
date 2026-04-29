@@ -1,6 +1,25 @@
 h1 {
   font-size: 40px;
+<<<<<<< HEAD
   font-family: Arial;
+=======
+  font-family: Arial
+}
+h2 {
+  font-size: 25px;
+  font-family: Arial
+}
+h3 {
+  font-family: Arial
+}
+p {
+  font-size: 14px;
+  font-family: Arial
+}
+div {
+background-color: blue;
+text-align: right;
+>>>>>>> 8e1e8f87ecfed476e286e78c7b9b4d46be92fc2a
 }
 
 h2 {
